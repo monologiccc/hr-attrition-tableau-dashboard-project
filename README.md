@@ -6,7 +6,7 @@
 
 🔗 **[Открыть интерактивный дашборд на Tableau Public](https://public.tableau.com/app/profile/anastasiia.antsupova/viz/EmployeeAttritionDashboard_17869725500430/Dashboard1?publish=yes)**
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/monologiccc/hr-attrition-tableau-dashboard-project/blob/main/tableau_dashboard_screenshot.png)
 
 ## Датасет
 [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
